@@ -1,2 +1,2 @@
 # Shopee
- E-commerce shop
+ E-commerce shop for all to enjoy
